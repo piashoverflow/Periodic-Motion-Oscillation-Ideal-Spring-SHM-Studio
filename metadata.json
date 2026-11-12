@@ -1,0 +1,6 @@
+{
+  "name": "Periodic Motion, Oscillation & Ideal Spring SHM Studio",
+  "description": "Interactive high-contrast physics simulation studio exploring temporal vs spatial periodicity, Hooke's restoring force in ideal spring-mass systems, and the differential equation of Simple Harmonic Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
